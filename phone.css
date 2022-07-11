@@ -1,0 +1,31 @@
+#navbar{
+    flex-direction: column;
+    text-align: center;
+
+}
+#navbar ul li{
+    margin-right: -35px;
+}
+#home::before{
+    height: 60%;
+}
+#home{
+   padding: 2px 10px;
+  
+}
+#services .all-service {
+    flex-direction: column;
+  }
+  #services .box{
+    
+    text-align: center;
+    margin: 6px 9px;
+  }
+  .client-logo{
+    margin: 0px 0px;
+   
+  }
+  #contact-box{
+    padding-top: 312px;
+}
+

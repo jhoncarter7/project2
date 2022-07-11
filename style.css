@@ -5,6 +5,7 @@
 
 #navbar {
   display: flex;
+  position: relative;
 }
 #logo {
   margin: 17px 28px;
@@ -13,9 +14,7 @@
 #logo img {
   height: 58px;
 }
-#navbar {
-  position: relative;
-}
+
 
 #navbar::before {
   content: "";
@@ -69,6 +68,7 @@
   display: flex;
   flex-direction: column;
   padding: 3px 350px;
+  
   height: 320px;
   align-items: center;
   justify-content: center;
@@ -102,7 +102,7 @@
 
 #services .box {
   border: 2px solid red;
-  width: 30%;
+  width: 95%;
   background-color: rgb(245, 237, 227);
   margin: 17px 20px;
   border-radius: 38px;
@@ -206,5 +206,9 @@ margin-top: -22px;
   text-align: center;
   margin: 9px;
   padding: 9px;
+}
+
+#message{
+   height: 130px;
 }
 
