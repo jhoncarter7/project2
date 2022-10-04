@@ -17,3 +17,8 @@
 </ul>
 
 <h4> Check this live at <a href = "https://myfoodwbsite.netlify.app/" target = "blank">Website</a></h4>
+
+<h4> Contributors </h4>
+<ul>
+<li> <a href = "https://github.com/jhoncarter7">Nikhil</a> </li>
+</ul>
