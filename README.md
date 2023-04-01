@@ -16,7 +16,7 @@
 <li> ABOUT-US </li>
 </ul>
 
-<h4> Check this live at <a href = "https://myfoodwbsite.netlify.app/" target = "blank">Website</a></h4>
+<h4> Check this live at <a href = "https://movie-review-pearl.vercel.app/" target = "blank">Website</a></h4>
 
 <h4> Contributors </h4>
 <ul>
